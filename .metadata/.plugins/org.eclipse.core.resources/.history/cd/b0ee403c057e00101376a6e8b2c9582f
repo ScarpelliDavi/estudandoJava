@@ -1,0 +1,25 @@
+package application;
+
+import java.util.HashSet;
+import java.util.Scanner;
+import java.util.Set;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		
+		Set<Integer> a = new HashSet<>();
+		Set<Integer> b = new HashSet<>();
+		Set<Integer> c = new HashSet<>();
+		
+		
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.println("how many students? ");
+		
+		int qtd = sc.nextInt();
+
+	}
+
+}

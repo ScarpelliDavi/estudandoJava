@@ -1,0 +1,17 @@
+package application;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		
+		Set<Integer> a = new HashSet<Integer>();
+		Set<Integer> b = new HashSet<Integer>();
+		Set<Integer> c = new HashSet<Integer>();
+
+	}
+
+}
